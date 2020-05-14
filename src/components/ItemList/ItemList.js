@@ -11,4 +11,4 @@ const ItemList = ({props}) => (<ol className={styles.list}>
         </li>))}
 </ol>);
 
-export default 
+export default ItemList;
